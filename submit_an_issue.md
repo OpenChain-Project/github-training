@@ -14,6 +14,8 @@ Issues can be used to keep track of bugs, enhancements, or other requests. For m
 
 ## Creating an issue from a repository
 
+{add gifs}
+{add different language gifs} 
 
 **1.** On [OpenChain Repo.com](https://github.com/OpenChain-Project), navigate to the main page of the repository.
 
