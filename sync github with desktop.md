@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sync GitHub with desktop
-nav_order: 12
+nav_order: 13
 ---
 
 # Sync with GitHub Desktop (and maybe git) 
