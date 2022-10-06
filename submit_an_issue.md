@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Step 2 - Create an Issue
+title: Create an Issue
 nav_order: 14
 ---
 
@@ -35,15 +35,15 @@ Issues can be used to keep track of bugs, enhancements, or other requests. For m
 ![image](https://user-images.githubusercontent.com/8318213/194265676-8313c46f-d77d-4fb2-a00c-cef0c6ca65cd.png)
 
 
-5. Type a title and description for your issue.
+**5.** Type a title and description for your issue.
 
 ![image](https://user-images.githubusercontent.com/8318213/194266138-6d11c69d-db54-4312-b502-af57e1321e24.png)
 
 
-6. If you're a project maintainer, you can [assign the issue to someone](https://docs.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users), [add it to a project board](https://docs.github.com/en/articles/adding-issues-and-pull-requests-to-a-project-board/#adding-issues-and-pull-requests-to-a-project-board-from-the-sidebar), [associate it with a milestone](https://docs.github.com/en/articles/associating-milestones-with-issues-and-pull-requests), or [apply a label](https://docs.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
+**6.** If you're a project maintainer, you can [assign the issue to someone](https://docs.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users), [add it to a project board](https://docs.github.com/en/articles/adding-issues-and-pull-requests-to-a-project-board/#adding-issues-and-pull-requests-to-a-project-board-from-the-sidebar), [associate it with a milestone](https://docs.github.com/en/articles/associating-milestones-with-issues-and-pull-requests), or [apply a label](https://docs.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
 
 
-7. When you're finished, click **Submit new Issue**
+**7.** When you're finished, click **Submit new Issue**
 ![image](https://user-images.githubusercontent.com/8318213/194266415-52abfa14-6278-47d2-86b2-8ee4fa53eddc.png)
 
 <!--
