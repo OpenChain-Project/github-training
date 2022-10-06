@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Start point - GitHub flow
+title: Creating a PR - GitHub flow
 nav_order: 6
 ---
 
