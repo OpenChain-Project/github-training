@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step 5 - Merging Pull Request
-nav_order: 11
+nav_order: 12
 ---
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
