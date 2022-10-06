@@ -9,9 +9,13 @@ nav_order: 6
 # Collaborating with Issues
 Issues can be created in a variety of ways, so you can choose the most convenient method for your workflow.
 
+- [Issue tutorial](
+- [Issue Guideline steps](https://openchain-project.github.io/github-training/submit_an_issue.html#creating-an-issue-from-a-repository)
+
 ## About Issues
 Issues can be used to keep track of bugs, enhancements, or other requests. For more information, see "[About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)."
 
+## GitHub tutorial
 <iframe width="719" height="480" src="https://www.youtube.com/embed/TKJ4RdhyB5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [00:30](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&t=30s) - GitHub issues are a "nice way" to collaborate with project members
