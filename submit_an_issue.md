@@ -12,6 +12,13 @@ Issues can be created in a variety of ways, so you can choose the most convenien
 ## About Issues
 Issues can be used to keep track of bugs, enhancements, or other requests. For more information, see "[About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)."
 
+<iframe width="719" height="480" src="https://www.youtube.com/embed/TKJ4RdhyB5Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [00:30](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&t=30s) - GitHub issues are a "nice way to hold yourself accountable for tasks that you have to do or need to do in the future"
+- [03:17](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&t=197s) - #CrossLinking: Issue ID can be referenced inside commit message
+- [04:43](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&t=283s) - If issue has keyword "fixes" and issue ID GitHub will auto-close the issue
+- [05:20](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&t=320s) - Copy commit message into comment and it autolinks
+
 ## Creating an issue from a repository
 
 {add gifs}
