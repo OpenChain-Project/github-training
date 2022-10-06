@@ -9,7 +9,7 @@ nav_order: 6
 # Collaborating with Issues
 Issues can be created in a variety of ways, so you can choose the most convenient method for your workflow.
 
-- [Issue tutorial](
+- [Issue tutorial](https://openchain-project.github.io/github-training/submit_an_issue.html#github-tutorial)
 - [Issue Guideline steps](https://openchain-project.github.io/github-training/submit_an_issue.html#creating-an-issue-from-a-repository)
 
 ## About Issues
